@@ -1,0 +1,14 @@
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.csprojAssemblyReference.cache
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.csproj.CoreCompileInputs.cache
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.RazorAssemblyInfo.cache
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.RazorAssemblyInfo.cs
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.AssemblyInfoInputs.cache
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.AssemblyInfo.cs
+Q:\Projects\React\goatvote\goatvote.api\bin\Debug\netcoreapp2.2\goatvote.api.deps.json
+Q:\Projects\React\goatvote\goatvote.api\bin\Debug\netcoreapp2.2\goatvote.api.runtimeconfig.json
+Q:\Projects\React\goatvote\goatvote.api\bin\Debug\netcoreapp2.2\goatvote.api.runtimeconfig.dev.json
+Q:\Projects\React\goatvote\goatvote.api\bin\Debug\netcoreapp2.2\goatvote.api.dll
+Q:\Projects\React\goatvote\goatvote.api\bin\Debug\netcoreapp2.2\goatvote.api.pdb
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.RazorTargetAssemblyInfo.cache
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.dll
+Q:\Projects\React\goatvote\goatvote.api\obj\Debug\netcoreapp2.2\goatvote.api.pdb
